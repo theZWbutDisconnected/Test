@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/961275462/19441292-a4c0-422a-8be4-da7cffa0a5de?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T065301Z&X-Amz-Expires=300&X-Amz-Signature=5af8d5fe70633a083285089008a70bb3c84f670863ffab5d38f6012f36dce855&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dsigned_67f1f4d179d0d_1743910097.ipa&response-content-type=application%2Foctet-stream</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>title</key>
+                <string>PojavLauncher</string>
+                <key>bundle-version</key>
+                <string>com.zerwhit.pojav</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>bundle-identifier</key>
+                <string>com.test.egocode</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
